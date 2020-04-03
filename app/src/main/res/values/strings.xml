@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AdvanceQuizApp</string>
+    <string name="Quiz_App">Quiz Game</string>
+    <string name="question">Question</string>
+    <string name="True">True</string>
+    <string name="false_button">False</string>
+    <string name="todo">TODO</string>
+    <string name="next_button">Next</string>
+    <string name="Score">Score: 0</string>
+    <string name="Question">0/900</string>
+    <string name="Highest_score">Highest Score</string>
+</resources>
